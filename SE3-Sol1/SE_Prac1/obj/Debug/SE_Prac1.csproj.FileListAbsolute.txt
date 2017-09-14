@@ -1,0 +1,15 @@
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\bin\Debug\SE_Prac1.exe.config
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\bin\Debug\SE_Prac1.exe
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\bin\Debug\SE_Prac1.pdb
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.csprojResolveAssemblyReference.cache
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\MainWindow.g.cs
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\App.g.cs
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1_MarkupCompile.cache
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1_MarkupCompile.lref
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\MainWindow.baml
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.g.resources
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.Properties.Resources.resources
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.csproj.GenerateResource.Cache
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.csproj.CoreCompileInputs.cache
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.exe
+H:\Year 3\SE\SE3-Sol1\SE_Prac1\obj\Debug\SE_Prac1.pdb
